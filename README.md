@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @OrtegaSA
 - 👀 I’m interested in AI
-- 🌱 I’m currently working on quantum computing
+- 🌱 I’m PhD currently working on quantum computing
 <!---
 - 💞️ I’m looking to collaborate on ...
 --->
-- 📫 How to reach me: sergioan@ucm.es
+- 📫 How to reach me: s.a.ortega@yonsei.ac.kr
 
 <!---
 OrtegaSA/OrtegaSA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
